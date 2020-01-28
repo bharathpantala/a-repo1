@@ -4,7 +4,6 @@ qwf ;onrihf h q
 pf;
 
 if {
-
 }
 else
 {
