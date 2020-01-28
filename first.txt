@@ -9,7 +9,3 @@ if {
 else
 {
 }
-
-
-echo Hello pojifwqdc;
-wrkeprc
