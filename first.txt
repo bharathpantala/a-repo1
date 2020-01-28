@@ -3,5 +3,8 @@ kdhfw
 qwf ;onrihf h q
 pf;
 
-echo Hello pojifwqdc;
-wrkeprc
+if {
+}
+else
+{
+}
